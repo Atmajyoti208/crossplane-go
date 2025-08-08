@@ -1,0 +1,7 @@
+{
+  "auth_url": "http://10.10.14.182:5000",
+  "application_credential_id": "84e3d7b590c94392a488816e157ebe33",
+  "application_credential_secret": "I69RY7lo39yyWwaxhrUnMIL8PGl_DF6Rx2u5usj72pGCLgN-rlVYVtQXewz1hHO_eWJDKdemwO3rxJj3rhyYUA",
+  "insecure": "true",
+  "region": "RegionOne"
+}
